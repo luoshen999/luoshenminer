@@ -90,3 +90,33 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 `teamredminer.exe -a ethash -o stratum+tcp://[ETH代理IP:端口] -u [ETH钱包地址].[矿机名] -p x --ton -o stratum+tcp://[TON代理IP:端口] -u [TON钱包地址].[矿机名] -p x --ton_pool_mode=icemining --ton_end`
 
 注意使用实际真实地址后，不要带[ ]。
+
+## 使用截图
+
+### 登录页面
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/login.png)
+
+### 修改密码
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/changepwd.png)
+
+### 添加矿池
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addpool.png)
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addpool2.png)
+
+### 添加抽水账号
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addaccount.png)
+
+### CC攻击管理
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/cc.png)
+
+### 端口统计
+
+![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/index.png)
+
+## 开发抽水比例
+
