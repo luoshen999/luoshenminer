@@ -95,28 +95,28 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 
 ### 登录页面
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/login.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/login.png)
 
 ### 修改密码
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/changepwd.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/changepwd.png)
 
 ### 添加矿池
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addpool.png)
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addpool2.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addpool.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addpool2.png)
 
 ### 添加抽水账号
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/addaccount.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addaccount.png)
 
 ### CC攻击管理
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/cc.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/cc.png)
 
 ### 端口统计
 
-![](https://cdn.jsdelivr.net/gh/luoshenminer/luoshenminer/docs/index.png)
+![](https://github.com/luoshen999/luoshenminer/tree/main/docs/index.png)
 
 ## 开发抽水比例
 
