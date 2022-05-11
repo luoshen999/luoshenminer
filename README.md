@@ -93,30 +93,31 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 
 ## 使用截图
 
+
 ### 登录页面
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/login.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/login.png)
 
 ### 修改密码
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/changepwd.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/changepwd.png)
 
 ### 添加矿池
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addpool.png)
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addpool2.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addpool.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addpool2.png)
 
 ### 添加抽水账号
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/addaccount.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addaccount.png)
 
 ### CC攻击管理
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/cc.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/cc.png)
 
 ### 端口统计
 
-![](https://github.com/luoshen999/luoshenminer/tree/main/docs/index.png)
+![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/index.png)
 
 ## 开发抽水比例
 
