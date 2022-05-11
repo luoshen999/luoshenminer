@@ -119,5 +119,4 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 
 ![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/index.png)
 
-## 开发抽水比例
 
