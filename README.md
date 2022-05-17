@@ -71,7 +71,7 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 1. 准备证书文件：  
 程序默认自带了自签名证书，位于`/etc/luoshenminer/conf`目录下面，分别是证书文件`server.crt`和私钥`server.key`,
 如果需要用自己的正规证书，只需要把你的证书改名成`server.crt`，私钥文件改成`server.key`。
-覆盖`/etc/luoshenminer/conf`目录下面的同名文件即可。
+覆盖`/etc/luoshenminer/conf`目录下面的同名文件即可,另外也可以自定义上传每个池子的对应的域名证书。
 
 2. 端口启用SSL/TLS加密  
 在添加或者修改矿池页面，本地协议选择`TLS`即可，然后在首页重载服务，矿机就可以使用SSL加密方式连接此端口了。
