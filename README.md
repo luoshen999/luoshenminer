@@ -30,7 +30,7 @@ Web界面操作，简单易用，一键安装，小白可以轻松上手。可�
 
 - 系统类型：Linux: `Debian 9`及以后, `Centos 7`及以后, `Ubuntu 12`及以后。
 - 依赖命令：iptables，ipset。
-- 一台国外VPS，不要用国内VPS！
+- 一台国外地域或香港VPS！
 
 ## 安装方式
 
