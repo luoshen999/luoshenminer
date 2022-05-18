@@ -104,23 +104,23 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 
 ### 修改密码
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/changepwd.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5gwQ7F87fJD3bD7ngtvN.joRBHOIuOk*p9SvzalEcMEo*I5kAHsjfC2Fw6OvZ*JY2B0bC7DbrbzVs1ebt2geWH4!/b&bo=SgK.AEoCvgADFzI!&rf=viewer_4)
 
 ### 添加矿池
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addpool.png)
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addpool2.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5poRdi2RebudANME6pB.2UI.9JCtOkya3*lWgjIS8TAHq6fpRH0yuC7T.DPF.UNTDCI*ow7xVP*QaCkgno4nMmY!/b&bo=9QJkBPUCZAQDJwI!&rf=viewer_4)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5gwQ7F87fJD3bD7ngtvN.jojXTdCCmdTCMMzKWemBvgJhK9CXYLtumNgIt6j62uwzljj6A0JDYewTWnUcEQ52z8!/b&bo=ogI7AqICOwIDFzI!&rf=viewer_4)
 
 ### 添加抽水账号
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/addaccount.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5poRdi2RebudANME6pB.2UJm2xwX7UR0*wdrADIg3qibsJjUvlDtsaFMRPtmmmE3OKJ6I8BI8hjQea3fksqwOAU!/b&bo=lgICA5YCAgMDByI!&rf=viewer_4)
 
 ### CC攻击管理
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/cc.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5gwQ7F87fJD3bD7ngtvN.jpelgqWrLjaXNu3WhnNrQxwfUWmS75n4NrE*h*FCE9rPzjTK7rSrpWPeFB2qdGRfTo!/b&bo=lgRFAZYERQEDByI!&rf=viewer_4)
 
 ### 端口统计
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/index.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5gwQ7F87fJD3bD7ngtvN.jqryr3.LKwiD1HSbioxYctlyabVIRRllprvkCD5hBObEcAM2I82oDJoTPiJRW2Pm*c!/b&bo=TQfAAk0HwAIDByI!&rf=viewer_4)
 
 
