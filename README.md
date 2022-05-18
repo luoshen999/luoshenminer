@@ -100,7 +100,7 @@ bash -c "$(curl -s -L https://github.com/luoshen999/luoshenminer/raw/main/instal
 
 ### 登录页面
 
-![](https://raw.githubusercontent.com/luoshen999/luoshenminer/main/docs/login.png)
+![](http://m.qpic.cn/psc?/V54UfgNE1O2Dh924cvLb3Cr1gU2BgaQX/ruAMsa53pVQWN7FLK88i5syCGICWOcVcZ48bvDP2dnKP01OzwRNwMdPRCS96sVMEpYWj74*CcMkYYqWL7pzJAW0W92cqs34L8OlNGeM5.Lw!/b&bo=PQR1Aj0EdQIDByI!&rf=viewer_4)
 
 ### 修改密码
 
