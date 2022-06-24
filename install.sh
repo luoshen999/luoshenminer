@@ -3,11 +3,11 @@ PATH_TO_DIR="/etc/luoshenminer/"
 BIN_NAME="luoshenminer"
 PATH_TO_BIN=${PATH_TO_DIR}${BIN_NAME}
 SERVICE_NAME=${BIN_NAME}
-DOWNLOAD_ADDR="https://github.com/luoshen999/luoshenminer/raw/main/releases/luoshenminer"
+DOWNLOAD_ADDR="https://github.com/luoshen999/luoshenminer/raw/main/releases/luoshenminer.tar.gz"
 case $1 in
 install)
 	if [ -f ${PATH_TO_BIN} ]; then
-		${PATH_TO_DIR}${BIN_NAME} uninstall
+		${PATH_TO_DIR}${BIN_NAME} uninstall >/dev/null 2>&1
 	fi
 	#remove exists files
 	rm -rf ${PATH_TO_DIR}
@@ -17,7 +17,8 @@ install)
 	mkdir ${PATH_TO_DIR}
 	cd ${PATH_TO_DIR}
 	set -e
-	curl -s -L -o ${BIN_NAME} ${DOWNLOAD_ADDR}
+	curl -s -L -o ${BIN_NAME}.tar.gz ${DOWNLOAD_ADDR}
+	tar -xzvf ${BIN_NAME}.tar.gz
 	chmod +x ${BIN_NAME}
 	./${BIN_NAME} install
 	./${BIN_NAME} start
@@ -28,8 +29,10 @@ install)
 update)
 	if [ -f ${PATH_TO_BIN} ]; then
 		rm -f ${PATH_TO_DIR}${BIN_NAME}
+		rm -f ${PATH_TO_DIR}${BIN_NAME}.tar.gz
 		cd ${PATH_TO_DIR}
-		curl -s -L -o ${BIN_NAME} ${DOWNLOAD_ADDR}
+		curl -s -L -o ${BIN_NAME}.tar.gz ${DOWNLOAD_ADDR}
+		tar -xzvf ${BIN_NAME}.tar.gz
 		chmod +x ${BIN_NAME}
 		systemctl restart ${SERVICE_NAME}
 		./${BIN_NAME} status
